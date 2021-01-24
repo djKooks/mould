@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Kwang-in (Dennis) Jung",
+  "license": "MIT",
   "dependencies": {
     "googleapis": "^39.2.0"
   }

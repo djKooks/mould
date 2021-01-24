@@ -1,1 +1,1 @@
-console.log('hello')
+module.exports = require('./lib/mould');
