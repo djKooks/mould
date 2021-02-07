@@ -92,5 +92,7 @@ web_modules/
 # etc
 .vscode
 .idea
+config.yml
 credentials.json
+token.json
 
